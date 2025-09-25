@@ -1,5 +1,5 @@
 
-# Exercícios SO-2
+# Exercícios Sistemas Operacionais 2
 
 **Nome do Aluno:** 
 Mateus Gomes Teixeira
