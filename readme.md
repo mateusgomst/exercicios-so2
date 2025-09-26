@@ -1,8 +1,10 @@
 
 # Exercícios Sistemas Operacionais 2
 
-**Nome do Aluno:** 
-Mateus Gomes Teixeira, Gabriel Jose
+**Alunos:**
+
+Mateus Gomes Teixeira
+Gabriel José
 
 Este repositório contém a implementação de 10 exercícios práticos sobre concorrência em Java. O objetivo é explorar e aplicar conceitos fundamentais de sistemas operacionais, como gerenciamento de threads, mecanismos de sincronização, prevenção de deadlocks e padrões de comunicação entre processos.
 
